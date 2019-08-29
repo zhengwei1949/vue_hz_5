@@ -22,6 +22,9 @@
     + 动态绑定属性
     + 语法：v-bind:属性名="data中的变量"
     + 简写：:属性名="data中的变量"
+    + 样式相关
+        1. v-bind:class
+        2. v-bind:style
 - v-if
     + 注册登录切换用这个
 - v-show
